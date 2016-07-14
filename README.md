@@ -1,4 +1,4 @@
-# img2txt
+# OhSeeAarrr
 
 Print text from an image using ImageMagick and Tesseract.
 
@@ -15,11 +15,11 @@ The image is:
 
 ## Arch Linux
 
-pacman -Syu tesseract tesseract-data-eng
+`pacman -Syu tesseract tesseract-data-eng`
 
 ## Debian
 
-apt-get install tesseract-ocr tesseract-ocr-eng
+`apt-get install tesseract-ocr tesseract-ocr-eng`
 
 # Installation
 
